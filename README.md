@@ -2,7 +2,7 @@
 home: true
 heroImage: /dortania-logo-clear.png
 heroText: Dortania's OpenCore Install Guide
-actionText: Getting Started→
+actionText: 开始使用→
 actionLink: prerequisites.md
 
 meta:
